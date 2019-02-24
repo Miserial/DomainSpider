@@ -34,7 +34,6 @@ def fillwlist(wlist,HTML):
 
         wlist.append(temp)
 
-    #print('--wlist',wlist)
 
 def storwlist(wlist):
     f=open(out_file,'a')
